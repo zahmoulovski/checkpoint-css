@@ -3,10 +3,10 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .shape{
-    margin: 50px 350px;
+    margin: 50px 250px;
 }
 #navmenu{
-    margin: 0 350px;
+    margin: 0 250px;
     display: flex;
     justify-content: space-between;
     align-items: center;    
@@ -30,7 +30,7 @@ header{
     top: 0;
     border-bottom: 1px solid #00b39b;
 }
-#active-link{
+span{
     color: #00b39b !important;
 }
 /* dropdown */
@@ -188,7 +188,7 @@ option{
 /* fourth section */
 .fourth-section{
     background-color: #DEF8F7;
-    padding: 20px 350px;
+    padding: 20px 250px;
     display: flex;
     justify-content: space-between;
     background-image: url(https://www.docplanner.com/img/logo.png);
